@@ -1,6 +1,6 @@
 ﻿---
 tags: Android 
-read: 1056   
+read: 365   
 ---
 &emsp;&emsp;AIDL，全称名为：Android Interface Definition Language。它是安卓中一种跨进程通信的实现方式，使得不同进程不同应用之间可以保持通信。
 &emsp;&emsp;本篇内容为基础使用篇，下面将写一个例子，来实现不同应用进程之间的通信。

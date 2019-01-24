@@ -1,6 +1,6 @@
 ﻿---
 tags: Android 
-read: 1056   
+read: 2354   
 ---
 &emsp;&emsp;提到Android的消息处理机制，相信大家并不陌生。因为我们在开发中基本会运用到消息处理，比如在子线程我们做了耗时的网络访问操作，然后通过Handler对象的一个sendMessage()方法就可以在主线程上回调handlerMessage()方法来让我们完成UI的更新。
 

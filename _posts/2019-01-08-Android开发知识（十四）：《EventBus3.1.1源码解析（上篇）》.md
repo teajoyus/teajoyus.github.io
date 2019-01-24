@@ -1,6 +1,6 @@
 ﻿---
 tags: Android 
-read: 1056   
+read: 290   
 ---
 @[toc]
 # EventBus前言

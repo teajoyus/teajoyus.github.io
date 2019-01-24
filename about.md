@@ -11,7 +11,7 @@ title: 关于我
 
 
 <p>
-邮箱：625321521@qq.com  CSDN博客地址：<a href="https://blog.csdn.net/lc_miao">https://blog.csdn.net/lc_miao </a>
+邮箱：625321521@qq.com  CSDN博客地址：<a href="https://blog.csdn.net/lc_miao"  target="view_window">https://blog.csdn.net/lc_miao </a>
 
 <p>
 
@@ -25,11 +25,8 @@ title: 关于我
 本网站博客主要使用了leopardpan.github.io的模板，对作者表示感谢
 
 <p> 
-<p> 
 
-<p> 
 
-<p> 
 
 {% include new-old.html %}
 

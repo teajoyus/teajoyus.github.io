@@ -1,6 +1,6 @@
 ﻿---
 tags: Android 
-read: 1056   
+read: 346   
 ---
 ​​![生命周期图](https://img-blog.csdn.net/20170707175214852?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvbGNfbWlhbw==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center)
 

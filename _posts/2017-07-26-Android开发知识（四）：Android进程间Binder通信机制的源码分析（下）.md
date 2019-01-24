@@ -1,6 +1,6 @@
 ﻿---
 tags: Android 
-read: 1056   
+read: 875   
 ---
 &emsp;&emsp;在这之前，我们已经讲解了关于AIDL的基础使用，若不了解AIDL基础知识的读者请先点击阅读[《Android开发知识（三）Android进程间Binder通信机制的源码分析（上）》](http://blog.csdn.net/lc_miao/article/details/76022479)之后再回来阅读本文。
 
