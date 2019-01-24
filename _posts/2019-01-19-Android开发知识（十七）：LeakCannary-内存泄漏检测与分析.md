@@ -1,5 +1,6 @@
 ﻿---
-tags: Android    
+tags: Android 
+read: 1056   
 ---
 
 @[toc]
