@@ -1,21 +1,17 @@
----
+﻿---
 layout: page
 title: 关于我 
 ---
 
-一个 C++/python开发者，喜欢研究好玩的技术。
-技能点比较杂：图像处理，路线规划,linux脚本，Web开发
+一个 Android开发者，喜欢专研Android相关的技术。
+
 <p>
-平时喜欢整理个人博客，逛逛技术论坛。
+平时喜欢写技术博客，游荡在github和各种技术论坛上
 <p>
 
 
 <p>
-邮箱：starelegant@163.com
-
-作者微信公众号：niceelegant
-<p>
-![微信公众号](http://photo-elegant.oss-cn-shanghai.aliyuncs.com/18-8-22/88408382.jpg)
+邮箱：625321521@qq.com  CSDN博客地址：https://blog.csdn.net/lc_miao
 
 <p>
 

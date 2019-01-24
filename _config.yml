@@ -1,11 +1,11 @@
-# Basic
-title: elegantm
+﻿# Basic
+title: 凉茶妙妙
 subtitle: 个人站
-description: 欢迎来到我的个人站~
+description: 欢迎来到我的个人博客网站~
 # 头像里面的标题
-avatarTitle: elegantm
+avatarTitle: teajoyus
 # 头像里面的描述
-avatarDesc: python / C++
+avatarDesc: Android/Java
 url: "http://baixin.io"
 
 # Comment
@@ -15,10 +15,8 @@ comment:
 
 # Social
 social:
-    weibo: 1063459334
-    github: elegantm
-    # twitter: 
-    mail: elegantm88@gmail.com
+    github: teajoyus
+    mail: 625321521@qq.com
 
 # 百度统计 
 # 使用博客模板请去掉或者更换 id 
