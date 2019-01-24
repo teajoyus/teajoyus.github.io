@@ -1,4 +1,8 @@
-﻿@[toc]
+﻿---
+tags: Android 
+read: 1056   
+---
+@[toc]
 # 前言
 -----
 &emsp;&emsp;在上一章节中，我们谈到了Android中的事件处理机制，展示了事件传递过程的基本性质，如果读者从未接触过关于Android事件处理机制的知识，可以先阅读[Android开发知识（七）：Android事件处理机制：事件分发、传递、拦截、处理机制的原理分析（上）](http://blog.csdn.net/lc_miao/article/details/78251504)

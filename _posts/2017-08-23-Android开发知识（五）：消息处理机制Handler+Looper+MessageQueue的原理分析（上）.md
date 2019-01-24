@@ -1,4 +1,8 @@
-﻿&emsp;&emsp;提到Android的消息处理机制，相信大家并不陌生。因为我们在开发中基本会运用到消息处理，比如在子线程我们做了耗时的网络访问操作，然后通过Handler对象的一个sendMessage()方法就可以在主线程上回调handlerMessage()方法来让我们完成UI的更新。
+﻿---
+tags: Android 
+read: 1056   
+---
+&emsp;&emsp;提到Android的消息处理机制，相信大家并不陌生。因为我们在开发中基本会运用到消息处理，比如在子线程我们做了耗时的网络访问操作，然后通过Handler对象的一个sendMessage()方法就可以在主线程上回调handlerMessage()方法来让我们完成UI的更新。
 
 &emsp;&emsp;那么，读者是否考虑过这个问题：似乎在这个过程，只涉及到Handler对象，加上Message对象作为消息载体。那这两个线程是怎么关联上的呢？为何子线程调用Handler对象的方法，能回调在主线程上的方法？为何在子线程调用Handler对象的post方法，而传入的Runable对象的run方法是在主线程上执行的？
 

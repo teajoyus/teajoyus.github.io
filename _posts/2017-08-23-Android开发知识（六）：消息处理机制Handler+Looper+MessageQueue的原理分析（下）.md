@@ -1,4 +1,8 @@
-﻿&emsp;&emsp;在上一篇博文中，我们已经学习过了消息处理机制的基础，对这个过程所涉及到的几个重要的类也有了一定的了解，如果在这方面不清楚也没看过上一篇博文的读者，请点击先阅读[《 Android开发知识（五）消息处理机制Handler+Looper+MessageQueue的原理分析（上）》](http://blog.csdn.net/lc_miao/article/details/77504343)
+﻿---
+tags: Android 
+read: 1056   
+---
+&emsp;&emsp;在上一篇博文中，我们已经学习过了消息处理机制的基础，对这个过程所涉及到的几个重要的类也有了一定的了解，如果在这方面不清楚也没看过上一篇博文的读者，请点击先阅读[《 Android开发知识（五）消息处理机制Handler+Looper+MessageQueue的原理分析（上）》](http://blog.csdn.net/lc_miao/article/details/77504343)
 
 &emsp;&emsp;在这篇博文中，我们来分析这个通信的过程。
 &emsp;&emsp;长话短说，我们直接从handler的sendMessage()一步步说起。毕竟我们的消息处理来源于handler的一系列send方法。

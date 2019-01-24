@@ -1,2 +1,2 @@
 elegant blog	
-[blog](elegantm.github.io)
+[blog](teajoyus.github.io)

@@ -1,4 +1,8 @@
-﻿[TOC]
+﻿---
+tags: Android 
+read: 1056   
+---
+[TOC]
 # EventBus前言
 
 本文主要讲解EventBus的源码解析，如果您未听过/使用过EventBus的话请自行百度一下，几分钟即可GET到这门技能。

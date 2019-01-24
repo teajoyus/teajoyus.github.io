@@ -1,4 +1,8 @@
-﻿&emsp;&emsp;在这之前，我们已经讲解了关于AIDL的基础使用，若不了解AIDL基础知识的读者请先点击阅读[《Android开发知识（三）Android进程间Binder通信机制的源码分析（上）》](http://blog.csdn.net/lc_miao/article/details/76022479)之后再回来阅读本文。
+﻿---
+tags: Android 
+read: 1056   
+---
+&emsp;&emsp;在这之前，我们已经讲解了关于AIDL的基础使用，若不了解AIDL基础知识的读者请先点击阅读[《Android开发知识（三）Android进程间Binder通信机制的源码分析（上）》](http://blog.csdn.net/lc_miao/article/details/76022479)之后再回来阅读本文。
 
 
 &emsp;&emsp;虽然Android系统是基于Linux内核，但是它的进程间通信方式并没有完全跟Linux一样，它拥有自己独特的通信方式--Binder。通过Binder我们可以进行不同应用与进程之间的相互通信以及远程方法调用。
