@@ -31,6 +31,7 @@ title: 关于我
 
 <p> 
 
+{% include new-old.html %}
 
 {% include comments.html %}
 
