@@ -1,16 +1,16 @@
 ﻿# Basic
 title: 凉茶妙妙
-subtitle: 个人站
+subtitle: 个人博客
 description: 欢迎来到我的个人博客网站~
 # 头像里面的标题
 avatarTitle: teajoyus
 # 头像里面的描述
-avatarDesc: Android/Java
-url: "http://baixin.io"
+avatarDesc: Android开发者
+url: "https://teajoyus.github.io/"
 
 # Comment
 comment:
-    disqus: leopard
+    disqus: teajoyus
     # uyan: 2143225  # 有言id,登录有言官网申请
 
 # Social
