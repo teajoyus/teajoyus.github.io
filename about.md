@@ -15,13 +15,14 @@ title: 关于我
 
 <p>
 
-如果你想搭建一个跟我一样的博客，可以看我的参考
+
+如果你想搭建一个跟我一样的博客，可以看参考
 <a href="/2016/10/jekyll_tutorials1/"> Jekyll 搭建个人博客 </a>
 教程
 
 <p>
 
-博客主要使用了leopardpan.github.io的模板，对作者表示感谢
+本网站博客主要使用了leopardpan.github.io的模板，对作者表示感谢
 
 <p> 
 <p> 
